@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+
+<head>
+  <meta charset="utf-8">
+  <title>Matthew Trevors</title>
+  <link rel="stylesheet" href="css/styles.css">
+</head>
+
+<body>
+  <table cellspacing="10">
+    <tr>
+      <td><img src="Matt.jpeg" alt="Matthew Trevors profile picture"></td>
+      <td>
+        <h1> Matthew Trevors </h1>
+        <p><em> Third Year Mechanical Engineering Student, Technology
+            Intern at Locomobi World Inc.</em></p>
+        <p> I am an engineering student passionate about mechanical processes, biomechanical research and technological advances.</p>
+      </td>
+    </tr>
+  </table>
+  <hr>
+  <h3> Education </h3>
+  <ul>
+    <li> The complete Web Development Bootcamp - <a href="https://www.udemy.com/the-complete-web-development-bootcamp"> Udemy </a> </li>
+    <li> Bachelor of Engineering - University of Guelph</li>
+    <li> Highschool Diploma - Saint Thomas Aquinas Secondary School</li>
+  </ul>
+  <hr>
+  <h3>Work Experience</h3>
+  <table>
+    <thead>
+      <th> Dates </th>
+      <th> Work Description
+      <th>
+    </thead>
+    <tbody>
+      <tr>
+        <td>April 2018 - September 2018</td>
+        <td>Laborer at Ultimate Pool Service</td>
+      </tr>
+      <tr>
+        <td> December 2016 - September 2017</td>
+        <td> Sales Associate at Koffee Korner</td>
+      </tr>
+    </tbody>
+  </table>
+  <hr>
+  <h3> Hobbies and Personal Interests</h3>
+  <ol>
+    <li> Health and Fitness - Certified Personal Trainer </li>
+    <li> Self taught programmer - proficient in HTML, CSS, Javascript and Python programming languages </li>
+  </ol>
+  <hr>
+  <h3> Personal Projects </h3>
+  <ul>
+    <a href="projects.html"> Projects List</a>
+  </ul>
+  <h3> Skills </h3>
+  <table border="10" cellspacing="10">
+    <tr>
+      <td> Solidworks </td>
+      <td> ⭐️⭐️⭐️ </td>
+    </tr>
+    <tr>
+      <td> Microsoft Office </td>
+      <td> ⭐️⭐️⭐️⭐️ </td>
+    </tr>
+    <tr>
+      <td> Matlab </td>
+      <td> ⭐️⭐️⭐️ </td>
+    </tr>
+  </table>
+  <hr>
+  <h3> <a href="contact.html"> Contact Me </a> </h3>
+
+  <a download href="MatthewTrevorsResume.pdf"> Resume </a>
+</body>
+
+</html>
